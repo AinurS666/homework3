@@ -1,16 +1,6 @@
-# исходные данные
-Date_Pushkin = '26.05.1799'
-Date_Groznij = '25.08.1530'
-Date_Chehov = '16.04.1860'
-Date_Pasternak = '30.01.1890'
-Date_Bianki = '12.12.1811'
-Date_Lermontov = '3.10.1814'
-Date_Krilova = '13.02.1769'
-Date_Rasputin = '09.01.1869'
-Date_Tolstoj = '9.09.1828'
-Date_Tutchev = '5.12.1803'
 import random
 
+# данные для викторины
 family = {'Пушкин': '26.05.1799',
           'Грозный': '25.08.1530',
           'Чехов': '16.04.1860',
